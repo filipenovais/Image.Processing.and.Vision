@@ -1,4 +1,4 @@
-IASD
+Image Processing and Vision
 ====
 
 Repository for Artificial Intelligence and Decision Systems (IASD) course projects.
